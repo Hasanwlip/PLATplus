@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo-icon.png" alt="PLATplus logo" width="120" height="120">
+
 # PLATplus
 
 ### پلتفرم یکپارچهٔ ساخت، فروش و مدیریت کسب‌وکار آنلاین
