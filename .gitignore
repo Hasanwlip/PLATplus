@@ -1,0 +1,6 @@
+# Deny by default: only explicitly approved showcase files may be committed.
+*
+!.gitignore
+!README.md
+!assets/
+!assets/**
